@@ -1,7 +1,7 @@
 # Data-Visualization
 
 ## Summary
-This project explored the titanic dataset provided by Udacity for creating an story in Tableau. The dataset contains the details of the people who were onborad that ship. It lists their gender, their class, age, name, passenger id, fare, cabin, survived or not, etc. 
+This project explored the titanic dataset provided by Udacity for creating an story in Tableau. The dataset contains the details of the people who were onborad that ship. It lists their gender, their class, age, name, passenger id, fare, cabin, survived or not, etc. [The link for the project is](https://public.tableau.com/profile/modassir.bashir#!/vizhome/Titanic_413/Story1) 
 
 The dataset when loaded into the software needed changes in terms of data types. For example, age was a continuous variable which was changed to discrete. Similarly, we changed the data types of pclass, survived, parch ect according to the requirement. Additionally, 'Age[bin]' was created to make the graph look nice and more understandable.
 
